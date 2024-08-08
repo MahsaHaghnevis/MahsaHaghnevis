@@ -4,7 +4,7 @@
 
 
 ### What I Do
-- 🔭 **iOS Development**: Currently I am crafting efficient applications for the Apple ecosystem as an intern at [@NeshanMaps](https://neshan.org).
+- 🔭 **iOS Development**: Currently I am crafting efficient applications for the Apple ecosystem as an intern at [NeshanMaps](https://neshan.org).
 - 🧩 **C++ & Python**: Applying strong problem-solving skills in algorithm development and system design . 
 - 🌱 **Game Development with Unity**: Designing and developing interactive and captivating games using Unity .
 - 📚 **Computer Science Student**: Currently expanding my knowledge and skills in the field of computer science at Ferdowsi university of mashhad [FUM](https://en.um.ac.ir/).
