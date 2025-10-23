@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi there! I'm **Mahsa Haghnevis**, a passionate **Bakcend** intern with expertise in **Swift**, **C++**, **Python** , **JS** and exploring **Devops** concepts . 
+👋 Hi there! I'm **Mahsa Haghnevis**, a passionate **Bakcend** developer with expertise in **Swift**, **C++**, **Python** , **JS** and exploring **Devops** concepts . 
 
 
 ### What I Do
